@@ -20,3 +20,5 @@
 - Helvetica
 - Times New Roman
 - Verdana
+
+# CHEAT SHEET
